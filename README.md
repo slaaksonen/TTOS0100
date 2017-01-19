@@ -5,4 +5,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 ![](http://www.flug.fi/sites/default/files/int_linux_final_big.jpg)
 
 ###Otsikko 3
+
+![www.google.fi]
+
 ####Otsikko 4
