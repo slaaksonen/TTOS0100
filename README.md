@@ -9,3 +9,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 [Google](https://www.google.fi)
 
 ####Otsikko 4
+
+| Otsikko | Otsikko 2 |
+|:--------|----------:|
+| Add some text here | Ok? |
+| More text here | No? |
