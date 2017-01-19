@@ -6,6 +6,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer nec odio. Praes
 
 ###Otsikko 3
 
-[Google](google.fi)
+[Google](https://www.google.fi)
 
 ####Otsikko 4
